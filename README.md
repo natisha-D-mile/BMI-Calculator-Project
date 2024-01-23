@@ -1,0 +1,1 @@
+This project is a simple Body Mass Index (BMI) calculator. It's mainly developed using JavaScript. In this project, I aim to harness the power of programming in applying a concept related to a field I'm passionate about, which is Biology :)
